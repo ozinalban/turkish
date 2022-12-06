@@ -1,0 +1,2 @@
+SoqlAssignmentdifferentWay.ContactToAccount();
+SoqlAssignmentdifferentWay.ContactToAccount();
